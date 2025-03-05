@@ -1,0 +1,39 @@
+{
+  "Users": [
+    {
+      "id": "1",
+      "name": "Leanne Patil",
+      "Username": "Bret",
+      "email": "patil_sinnare@april.com",
+      "phone": "9706574594"
+    },
+    {
+      "id": "2",
+      "name": "Ervin howell",
+      "Username": "Scott",
+      "email": "Sccorian@may.com",
+      "phone": "9798675589"
+    },
+    {
+      "id": "3",
+      "name": "Dannis Ricchi",
+      "Username": "Dan",
+      "email": "Riccher@june.com",
+      "phone": "6748393734"
+    },
+    {
+      "id": "4",
+      "name": "Glenna Phillips",
+      "Username": "Glenne",
+      "email": "phillipis@july.com",
+      "phone": "8756383927"
+    },
+    {
+      "id": "5",
+      "name": "Ervin howell",
+      "Username": "Scott",
+      "email": "Sccorian@may.com",
+      "phone": "9798675589"
+    }
+  ]
+}
